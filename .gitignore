@@ -4,3 +4,4 @@ dataframes/
 dataframes/*
 test_out/
 test_out/*
+*.png
