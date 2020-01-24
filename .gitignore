@@ -5,3 +5,7 @@ dataframes/*
 test_out/
 test_out/*
 *.png
+copy/
+copy/*
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
